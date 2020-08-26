@@ -1,0 +1,58 @@
+export const dummyChats = [
+  {
+    id: 1,
+    sent_at: '23/08/2020',
+    userName: 'User',
+    message: 'This is the message of the text and can be varied in length.',
+    read: true,
+  },
+  {
+    id: 1,
+    sent_at: '23/08/2020',
+    userName: 'User',
+    message: 'This is the message of the text and can be varied in length.',
+    read: true,
+  },
+  {
+    id: 1,
+    sent_at: '23/08/2020',
+    userName: 'currentUser',
+    message: 'This is the message of the text and can be varied in length.',
+    read: true,
+  },
+  {
+    id: 1,
+    sent_at: '23/08/2020',
+    userName: 'User',
+    message: 'This is the message of the text and can be varied in length.',
+    read: false,
+  },
+  {
+    id: 1,
+    sent_at: '23/08/2020',
+    userName: 'User',
+    message: 'This is the message of the text and can be varied in length.',
+    read: true,
+  },
+  {
+    id: 1,
+    sent_at: '23/08/2020',
+    userName: 'User',
+    message: 'This is the message of the text and can be varied in length.',
+    read: true,
+  },
+  {
+    id: 1,
+    sent_at: '23/08/2020',
+    userName: 'currentUser',
+    message: 'This is the message of the text and can be varied in length.',
+    read: true,
+  },
+  {
+    id: 1,
+    sent_at: '23/08/2020',
+    userName: 'User',
+    message: 'This is the message of the text and can be varied in length.',
+    read: false,
+  },
+]
